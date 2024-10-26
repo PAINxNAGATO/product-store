@@ -3,7 +3,7 @@
 ### Deployed site.
 ![alt text](image-1.png)
 
-LINK : https://product-store-yjad.onrender.com/
+LINK : https://product-store-yjad.onrender.com
 
 ## Development and Build Tools
 
